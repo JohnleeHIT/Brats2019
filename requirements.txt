@@ -1,0 +1,13 @@
+imgaug==0.2.9
+Keras==2.2.4
+matplotlib==3.1.0
+nibabel==2.4.1
+numpy==1.16.4
+opencv-python==4.1.0.25
+scikit-image==0.15.0
+scikit-learn==0.21.2
+scipy==1.2.1
+SimpleITK==1.2.0
+sklearn==0.0
+tensorflow==1.13.1
+
