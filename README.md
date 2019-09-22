@@ -91,10 +91,10 @@ python main.py
 
 The proposed method was validated on the Brats2019 evaluation platform, the preliminary results on training and validation sets are as follows:       
 
-|  Training  |    WT     |    TC     |    ET     |
-| :--------: | :-------: | :-------: | :-------: |
-|  Training  | **0.915** |   0.832   |   0.791   |
-| Validation |   0.886   | **0.813** | **0.771** |
+| Dice Coefficient |    WT     |    TC     |    ET     |
+| :--------------: | :-------: | :-------: | :-------: |
+|     Training     | **0.915** |   0.832   |   0.791   |
+|    Validation    |   0.886   | **0.813** | **0.771** |
 
 To better illustrate the results of the proposed method, we made a qualitative analysis of the segmentation results, which can be seen as follows:
 
