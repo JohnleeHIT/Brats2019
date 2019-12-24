@@ -1102,6 +1102,7 @@ def load_train_ini(ini_file):
 
 
 
+
 if __name__ == '__main__':
     path = '/home/server/home/5foldtest/fold1/validation/BraTS19_UAB_3498_1.nii.gz'
     path2 = '/home/server/home/5foldtest/'

@@ -1,7 +1,7 @@
 import os
 import tensorflow as tf
 from utils import load_train_ini
-from oprations import CascadedModel
+from operations import CascadedModel
 import os
 
 # set cuda visable device
